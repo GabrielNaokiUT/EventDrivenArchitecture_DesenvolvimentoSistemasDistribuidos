@@ -1,10 +1,10 @@
-# Arquitetura Orientada a Eventos (EDA) — Sistema de Pedidos
+# Arquitetura Orientada a Eventos (EDA) - Sistema de Pedidos
 
 Projeto do seminário de **Desenvolvimento de Sistemas Distribuídos**. Um sistema de pedidos em Java
 puro (sem dependências externas) que demonstra, em uma demo interativa no terminal, como serviços
 se comunicam por eventos.
 
-## O que é EDA
+## O que é EDA?
 
 Em uma arquitetura orientada a eventos, os componentes não se chamam diretamente: eles trocam
 **eventos** por meio de um intermediário.
@@ -106,4 +106,4 @@ O estoque inicial é Notebook (5), Mouse (50) e Monitor (1), e não é reposto e
 - [**Wyllian Mariano**](https://github.com/wyllianmn)
 
 ----
-Desenvolvido para fins acadêmicos | Desenvolvimento de Sistemas Distribuídos | 4º período - ADS | Faculdade SENAI FATESG
+Desenvolvido para fins acadêmicos | Desenvolvimento de Sistemas Distribuídos | ADS 4 | Faculdade SENAI FATESG
